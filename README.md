@@ -94,6 +94,7 @@ The schedule file should include weekly matchups in the following format:
 2. Add or update the `schedule.json` file with matchups.
 3. Run the script for the desired week.
 4. Open the output files in the `Outputs` directory for analysis.
+5. Upload CSV file to Spreadsheet Example can be found here - https://docs.google.com/spreadsheets/d/1ZWPc7dQF_WMAdlNDDNJcLJ8m7R1G2gV7Kufje5-_M8c/edit?usp=sharing
 
 ---
 
