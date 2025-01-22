@@ -1,0 +1,309 @@
+{
+    "Score": 165.14,
+    "Projected": 110.8,
+    "PlusMinus": 54.34,
+    "BenchPoints": 21.06,
+    "Unused": 1.1000000000000227,
+    "Actual": {
+        "score": 165.14,
+        "starters": [
+            {
+                "name": "Patrick Mahomes",
+                "team": "KC",
+                "position": "QB",
+                "opponent": "Cin",
+                "result": "W 26-25",
+                "projected": 21.2,
+                "actual": 12.94
+            },
+            {
+                "name": "Alvin Kamara",
+                "team": "NO",
+                "position": "RB",
+                "opponent": "@Dal",
+                "result": "W 44-19",
+                "projected": 16.5,
+                "actual": 44.0
+            },
+            {
+                "name": "Brian Robinson Jr.",
+                "team": "Wsh",
+                "position": "RB",
+                "opponent": "NYG",
+                "result": "W 21-18",
+                "projected": 14.4,
+                "actual": 14.6
+            },
+            {
+                "name": "Malik Nabers",
+                "team": "NYG",
+                "position": "WR",
+                "opponent": "@Wsh",
+                "result": "L 18-21",
+                "projected": 13.5,
+                "actual": 28.7
+            },
+            {
+                "name": "Jahan Dotson",
+                "team": "Phi",
+                "position": "WR",
+                "opponent": "Atl",
+                "result": "L 21-22",
+                "projected": 9.1,
+                "actual": 1.6
+            },
+            {
+                "name": "Trey McBride",
+                "team": "Ari",
+                "position": "TE",
+                "opponent": "LAR",
+                "result": "W 41-10",
+                "projected": 13.0,
+                "actual": 18.7
+            },
+            {
+                "name": "Alec Pierce",
+                "team": "Ind",
+                "position": "WR",
+                "opponent": "@GB",
+                "result": "L 10-16",
+                "projected": 8.0,
+                "actual": 16.6
+            },
+            {
+                "name": "Chargers D/ST",
+                "team": "LAC",
+                "position": "D/ST",
+                "opponent": "@Car",
+                "result": "W 26-3",
+                "projected": 6.9,
+                "actual": 11.0
+            },
+            {
+                "name": "Brandon Aubrey",
+                "team": "Dal",
+                "position": "K",
+                "opponent": "NO",
+                "result": "L 19-44",
+                "projected": 8.2,
+                "actual": 17.0
+            }
+        ],
+        "bench": [
+            {
+                "name": "A.J. Brown",
+                "team": "Phi",
+                "position": "WR",
+                "opponent": "Atl",
+                "result": "L 21-22",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Raheem Mostert",
+                "team": "Mia",
+                "position": "RB",
+                "opponent": "Buf",
+                "result": "L 10-31",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Trey Benson",
+                "team": "Ari",
+                "position": "RB",
+                "opponent": "LAR",
+                "result": "W 41-10",
+                "projected": 4.6,
+                "actual": 2.7
+            },
+            {
+                "name": "Caleb Williams",
+                "team": "Chi",
+                "position": "QB",
+                "opponent": "@Hou",
+                "result": "L 13-19",
+                "projected": 16.4,
+                "actual": 7.36
+            },
+            {
+                "name": "DeMario Douglas",
+                "team": "NE",
+                "position": "WR",
+                "opponent": "Sea",
+                "result": "L 20-23",
+                "projected": 9.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Greg Zuerlein",
+                "team": "NYJ",
+                "position": "K",
+                "opponent": "@Ten",
+                "result": "W 24-17",
+                "projected": 8.2,
+                "actual": 6.0
+            },
+            {
+                "name": "Bears D/ST",
+                "team": "Chi",
+                "position": "D/ST",
+                "opponent": "@Hou",
+                "result": "L 13-19",
+                "projected": 4.1,
+                "actual": 5.0
+            }
+        ]
+    },
+    "Ideal": {
+        "score": 166.24,
+        "starters": [
+            {
+                "name": "Patrick Mahomes",
+                "team": "KC",
+                "position": "QB",
+                "opponent": "Cin",
+                "result": "W 26-25",
+                "projected": 21.2,
+                "actual": 12.94
+            },
+            {
+                "name": "Alvin Kamara",
+                "team": "NO",
+                "position": "RB",
+                "opponent": "@Dal",
+                "result": "W 44-19",
+                "projected": 16.5,
+                "actual": 44.0
+            },
+            {
+                "name": "Brian Robinson Jr.",
+                "team": "Wsh",
+                "position": "RB",
+                "opponent": "NYG",
+                "result": "W 21-18",
+                "projected": 14.4,
+                "actual": 14.6
+            },
+            {
+                "name": "Malik Nabers",
+                "team": "NYG",
+                "position": "WR",
+                "opponent": "@Wsh",
+                "result": "L 18-21",
+                "projected": 13.5,
+                "actual": 28.7
+            },
+            {
+                "name": "Alec Pierce",
+                "team": "Ind",
+                "position": "WR",
+                "opponent": "@GB",
+                "result": "L 10-16",
+                "projected": 8.0,
+                "actual": 16.6
+            },
+            {
+                "name": "Trey McBride",
+                "team": "Ari",
+                "position": "TE",
+                "opponent": "LAR",
+                "result": "W 41-10",
+                "projected": 13.0,
+                "actual": 18.7
+            },
+            {
+                "name": "Trey Benson",
+                "team": "Ari",
+                "position": "RB",
+                "opponent": "LAR",
+                "result": "W 41-10",
+                "projected": 4.6,
+                "actual": 2.7
+            },
+            {
+                "name": "Chargers D/ST",
+                "team": "LAC",
+                "position": "D/ST",
+                "opponent": "@Car",
+                "result": "W 26-3",
+                "projected": 6.9,
+                "actual": 11.0
+            },
+            {
+                "name": "Brandon Aubrey",
+                "team": "Dal",
+                "position": "K",
+                "opponent": "NO",
+                "result": "L 19-44",
+                "projected": 8.2,
+                "actual": 17.0
+            }
+        ],
+        "bench": [
+            {
+                "name": "Caleb Williams",
+                "team": "Chi",
+                "position": "QB",
+                "opponent": "@Hou",
+                "result": "L 13-19",
+                "projected": 16.4,
+                "actual": 7.36
+            },
+            {
+                "name": "Raheem Mostert",
+                "team": "Mia",
+                "position": "RB",
+                "opponent": "Buf",
+                "result": "L 10-31",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Jahan Dotson",
+                "team": "Phi",
+                "position": "WR",
+                "opponent": "Atl",
+                "result": "L 21-22",
+                "projected": 9.1,
+                "actual": 1.6
+            },
+            {
+                "name": "A.J. Brown",
+                "team": "Phi",
+                "position": "WR",
+                "opponent": "Atl",
+                "result": "L 21-22",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "DeMario Douglas",
+                "team": "NE",
+                "position": "WR",
+                "opponent": "Sea",
+                "result": "L 20-23",
+                "projected": 9.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Bears D/ST",
+                "team": "Chi",
+                "position": "D/ST",
+                "opponent": "@Hou",
+                "result": "L 13-19",
+                "projected": 4.1,
+                "actual": 5.0
+            },
+            {
+                "name": "Greg Zuerlein",
+                "team": "NYJ",
+                "position": "K",
+                "opponent": "@Ten",
+                "result": "W 24-17",
+                "projected": 8.2,
+                "actual": 6.0
+            }
+        ]
+    }
+}

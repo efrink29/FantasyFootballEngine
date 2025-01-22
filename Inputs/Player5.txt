@@ -1,0 +1,143 @@
+QB
+Joe BurrowJoe Burrow
+Joe Burrow
+Cin
+QB
+@Bal
+L 34-35
+20.0
+33.72
+RB
+Jonathan TaylorJonathan Taylor
+Jonathan Taylor
+Ind
+RB
+Buf
+L 20-30
+19.4
+14.2
+RB
+De'Von AchaneDe'Von Achane
+De'Von Achane
+Mia
+RB
+@LAR
+W 23-15
+18.9
+10.2
+WR
+George PickensGeorge Pickens
+George Pickens
+Pit
+WR
+@Wsh
+W 28-27
+16.2
+20.5
+WR
+Jalen TolbertJalen Tolbert
+Jalen Tolbert
+Dal
+WR
+Phi
+L 6-34
+7.5
+4.4
+TE
+T.J. HockensonT.J. Hockenson
+T.J. Hockenson
+Min
+TE
+@Jax
+W 12-7
+11.1
+15.2
+FLEX
+Jake FergusonJake Ferguson
+Jake Ferguson
+Dal
+TE
+Phi
+L 6-34
+10.2
+4.4
+D/ST
+Giants D/STGiants D/ST
+Giants
+NYG
+D/ST
+@Car
+L 17-20
+6.2
+3.0
+K
+Harrison ButkerHarrison Butker
+Harrison Butker
+KC
+K
+Den
+W 16-14
+7.9
+10.0
+TOTALS
+117.4
+115.62
+Bench
+Christian WatsonChristian Watson
+Christian Watson
+GB
+WR
+*BYE*
+--
+--
+0.0
+Bench
+Baker MayfieldBaker Mayfield
+Baker Mayfield
+TB
+QB
+SF
+L 20-23
+17.6
+8.94
+Bench
+Zach CharbonnetZach Charbonnet
+Zach Charbonnet
+Sea
+RB
+*BYE*
+--
+--
+0.0
+Bench
+Romeo DoubsRomeo Doubs
+Romeo Doubs
+GB
+WR
+*BYE*
+--
+--
+0.0
+Bench
+Amari CooperAmari Cooper
+Amari Cooper
+Buf
+WR
+@Ind
+W 30-20
+0.0
+0.0
+Bench
+Tyler ConklinTyler Conklin
+Tyler Conklin
+NYJ
+TE
+@Ari
+L 6-31
+7.7
+1.8
+Bench
+
+Empty
+--
+--

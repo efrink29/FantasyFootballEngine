@@ -1,0 +1,309 @@
+{
+    "Score": 98.12,
+    "Projected": 92.1,
+    "PlusMinus": 6.02,
+    "BenchPoints": 29.4,
+    "Unused": 16.599999999999994,
+    "Actual": {
+        "score": 98.12,
+        "starters": [
+            {
+                "name": "Jordan Love",
+                "team": "GB",
+                "position": "QB",
+                "opponent": "SF",
+                "result": "W 38-10",
+                "projected": 14.8,
+                "actual": 14.72
+            },
+            {
+                "name": "Kareem Hunt",
+                "team": "KC",
+                "position": "RB",
+                "opponent": "@Car",
+                "result": "W 30-27",
+                "projected": 17.7,
+                "actual": 11.7
+            },
+            {
+                "name": "Empty Empty",
+                "team": "LAR",
+                "position": "RB",
+                "opponent": "Phi",
+                "result": "L 20-37",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Puka Nacua",
+                "team": "LAR",
+                "position": "WR",
+                "opponent": "Phi",
+                "result": "L 20-37",
+                "projected": 15.6,
+                "actual": 20.7
+            },
+            {
+                "name": "DJ Moore",
+                "team": "Chi",
+                "position": "WR",
+                "opponent": "Min",
+                "result": "L 27-30",
+                "projected": 11.1,
+                "actual": 26.9
+            },
+            {
+                "name": "Dalton Schultz",
+                "team": "Hou",
+                "position": "TE",
+                "opponent": "Ten",
+                "result": "L 27-32",
+                "projected": 7.4,
+                "actual": 4.0
+            },
+            {
+                "name": "Deebo Samuel Sr.",
+                "team": "SF",
+                "position": "WR",
+                "opponent": "@GB",
+                "result": "L 10-38",
+                "projected": 12.1,
+                "actual": 3.1
+            },
+            {
+                "name": "Cardinals",
+                "team": "Ari",
+                "position": "D/ST",
+                "opponent": "@Sea",
+                "result": "L 6-16",
+                "projected": 5.6,
+                "actual": 12.0
+            },
+            {
+                "name": "Chad Ryland",
+                "team": "Ari",
+                "position": "K",
+                "opponent": "@Sea",
+                "result": "L 6-16",
+                "projected": 7.8,
+                "actual": 5.0
+            }
+        ],
+        "bench": [
+            {
+                "name": "Breece Hall",
+                "team": "NYJ",
+                "position": "RB",
+                "opponent": "*BYE*",
+                "result": "BYE",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Drake London",
+                "team": "Atl",
+                "position": "WR",
+                "opponent": "*BYE*",
+                "result": "BYE",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Jaxon Smith-Njigba",
+                "team": "Sea",
+                "position": "WR",
+                "opponent": "Ari",
+                "result": "W 16-6",
+                "projected": 13.7,
+                "actual": 19.7
+            },
+            {
+                "name": "Darnell Mooney",
+                "team": "Atl",
+                "position": "WR",
+                "opponent": "*BYE*",
+                "result": "BYE",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Kirk Cousins",
+                "team": "Atl",
+                "position": "QB",
+                "opponent": "*BYE*",
+                "result": "BYE",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Younghoe Koo",
+                "team": "Atl",
+                "position": "K",
+                "opponent": "*BYE*",
+                "result": "BYE",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Wan'Dale Robinson",
+                "team": "NYG",
+                "position": "WR",
+                "opponent": "TB",
+                "result": "L 7-30",
+                "projected": 10.2,
+                "actual": 9.7
+            }
+        ]
+    },
+    "Ideal": {
+        "score": 114.72,
+        "starters": [
+            {
+                "name": "Jordan Love",
+                "team": "GB",
+                "position": "QB",
+                "opponent": "SF",
+                "result": "W 38-10",
+                "projected": 14.8,
+                "actual": 14.72
+            },
+            {
+                "name": "Kareem Hunt",
+                "team": "KC",
+                "position": "RB",
+                "opponent": "@Car",
+                "result": "W 30-27",
+                "projected": 17.7,
+                "actual": 11.7
+            },
+            {
+                "name": "Empty Empty",
+                "team": "LAR",
+                "position": "RB",
+                "opponent": "Phi",
+                "result": "L 20-37",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "DJ Moore",
+                "team": "Chi",
+                "position": "WR",
+                "opponent": "Min",
+                "result": "L 27-30",
+                "projected": 11.1,
+                "actual": 26.9
+            },
+            {
+                "name": "Puka Nacua",
+                "team": "LAR",
+                "position": "WR",
+                "opponent": "Phi",
+                "result": "L 20-37",
+                "projected": 15.6,
+                "actual": 20.7
+            },
+            {
+                "name": "Dalton Schultz",
+                "team": "Hou",
+                "position": "TE",
+                "opponent": "Ten",
+                "result": "L 27-32",
+                "projected": 7.4,
+                "actual": 4.0
+            },
+            {
+                "name": "Jaxon Smith-Njigba",
+                "team": "Sea",
+                "position": "WR",
+                "opponent": "Ari",
+                "result": "W 16-6",
+                "projected": 13.7,
+                "actual": 19.7
+            },
+            {
+                "name": "Cardinals",
+                "team": "Ari",
+                "position": "D/ST",
+                "opponent": "@Sea",
+                "result": "L 6-16",
+                "projected": 5.6,
+                "actual": 12.0
+            },
+            {
+                "name": "Chad Ryland",
+                "team": "Ari",
+                "position": "K",
+                "opponent": "@Sea",
+                "result": "L 6-16",
+                "projected": 7.8,
+                "actual": 5.0
+            }
+        ],
+        "bench": [
+            {
+                "name": "Kirk Cousins",
+                "team": "Atl",
+                "position": "QB",
+                "opponent": "*BYE*",
+                "result": "BYE",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Breece Hall",
+                "team": "NYJ",
+                "position": "RB",
+                "opponent": "*BYE*",
+                "result": "BYE",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Deebo Samuel Sr.",
+                "team": "SF",
+                "position": "WR",
+                "opponent": "@GB",
+                "result": "L 10-38",
+                "projected": 12.1,
+                "actual": 3.1
+            },
+            {
+                "name": "Drake London",
+                "team": "Atl",
+                "position": "WR",
+                "opponent": "*BYE*",
+                "result": "BYE",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Darnell Mooney",
+                "team": "Atl",
+                "position": "WR",
+                "opponent": "*BYE*",
+                "result": "BYE",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Wan'Dale Robinson",
+                "team": "NYG",
+                "position": "WR",
+                "opponent": "TB",
+                "result": "L 7-30",
+                "projected": 10.2,
+                "actual": 9.7
+            },
+            {
+                "name": "Younghoe Koo",
+                "team": "Atl",
+                "position": "K",
+                "opponent": "*BYE*",
+                "result": "BYE",
+                "projected": 0.0,
+                "actual": 0.0
+            }
+        ]
+    }
+}

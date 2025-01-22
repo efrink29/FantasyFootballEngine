@@ -1,0 +1,147 @@
+QB
+Matthew StaffordMatthew Stafford
+Matthew Stafford
+LAR
+QB
+Mia
+L 15-23
+14.2
+9.72
+RB
+James CookJames Cook
+James Cook
+Buf
+RB
+@Ind
+W 30-20
+15.4
+15.5
+RB
+Austin EkelerAustin Ekeler
+Austin Ekeler
+Wsh
+RB
+Pit
+L 27-28
+15.1
+18.1
+WR
+Cooper KuppCooper Kupp
+Cooper Kupp
+LAR
+WR
+Mia
+L 15-23
+15.6
+15.0
+WR
+Josh DownsJosh Downs
+Josh Downs
+Ind
+WR
+Buf
+L 20-30
+14.9
+14.2
+TE
+Cade OttonCade Otton
+Cade Otton
+TB
+TE
+SF
+L 20-23
+12.8
+8.5
+FLEX
+Tyreek HillTyreek Hill
+Tyreek Hill
+Mia
+WR
+@LAR
+W 23-15
+15.6
+11.7
+D/ST
+Cardinals D/STCardinals D/ST
+Cardinals
+Ari
+D/ST
+NYJ
+W 31-6
+5.1
+11.0
+K
+Tyler BassTyler Bass
+Tyler Bass
+Buf
+K
+@Ind
+W 30-20
+8.0
+13.0
+TOTALS
+116.8
+116.72
+Bench
+Marvin Harrison Jr.Marvin Harrison Jr.
+Marvin Harrison Jr.
+Ari
+WR
+NYJ
+W 31-6
+11.7
+16.4
+Bench
+Jakobi MeyersJakobi Meyers
+Jakobi Meyers
+LV
+WR
+*BYE*
+--
+--
+0.0
+Bench
+Kenneth Walker IIIKenneth Walker III
+Kenneth Walker III
+Sea
+RB
+*BYE*
+--
+--
+0.0
+Bench
+Geno SmithGeno Smith
+Geno Smith
+Sea
+QB
+*BYE*
+--
+--
+0.0
+Bench
+Javonte WilliamsJavonte Williams
+Javonte Williams
+Den
+RB
+@KC
+L 14-16
+11.3
+2.7
+Bench
+Xavier LegetteXavier Legette
+Xavier Legette
+Car
+WR
+NYG
+W 20-17
+11.0
+7.0
+Bench
+Demarcus RobinsonDemarcus Robinson
+Demarcus Robinson
+LAR
+WR
+Mia
+L 15-23
+6.9
+3.3

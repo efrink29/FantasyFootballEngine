@@ -1,0 +1,309 @@
+{
+    "Score": 140.86,
+    "Projected": 126.9,
+    "PlusMinus": 13.96,
+    "BenchPoints": 31.4,
+    "Unused": 10.299999999999983,
+    "Actual": {
+        "score": 140.86,
+        "starters": [
+            {
+                "name": "Anthony Richardson",
+                "team": "Ind",
+                "position": "QB",
+                "opponent": "@GB",
+                "result": "L 10-16",
+                "projected": 18.6,
+                "actual": 9.86
+            },
+            {
+                "name": "Bijan Robinson",
+                "team": "Atl",
+                "position": "RB",
+                "opponent": "@Phi",
+                "result": "W 22-21",
+                "projected": 22.2,
+                "actual": 16.2
+            },
+            {
+                "name": "De'Von Achane",
+                "team": "Mia",
+                "position": "RB",
+                "opponent": "Buf",
+                "result": "L 10-31",
+                "projected": 17.0,
+                "actual": 29.5
+            },
+            {
+                "name": "Chris Olave",
+                "team": "NO",
+                "position": "WR",
+                "opponent": "@Dal",
+                "result": "W 44-19",
+                "projected": 14.2,
+                "actual": 12.8
+            },
+            {
+                "name": "DeVonta Smith",
+                "team": "Phi",
+                "position": "WR",
+                "opponent": "Atl",
+                "result": "L 21-22",
+                "projected": 16.8,
+                "actual": 20.6
+            },
+            {
+                "name": "Brock Bowers",
+                "team": "LV",
+                "position": "TE",
+                "opponent": "@Bal",
+                "result": "W 26-23",
+                "projected": 10.2,
+                "actual": 18.8
+            },
+            {
+                "name": "Amari Cooper",
+                "team": "Cle",
+                "position": "WR",
+                "opponent": "@Jax",
+                "result": "W 18-13",
+                "projected": 12.2,
+                "actual": 4.1
+            },
+            {
+                "name": "Ravens D/ST",
+                "team": "Bal",
+                "position": "D/ST",
+                "opponent": "LV",
+                "result": "L 23-26",
+                "projected": 7.5,
+                "actual": 9.0
+            },
+            {
+                "name": "Ka'imi Fairbairn",
+                "team": "Hou",
+                "position": "K",
+                "opponent": "Chi",
+                "result": "W 19-13",
+                "projected": 8.2,
+                "actual": 20.0
+            }
+        ],
+        "bench": [
+            {
+                "name": "Tank Dell",
+                "team": "Hou",
+                "position": "WR",
+                "opponent": "Chi",
+                "result": "W 19-13",
+                "projected": 13.1,
+                "actual": 2.3
+            },
+            {
+                "name": "Jameson Williams",
+                "team": "Det",
+                "position": "WR",
+                "opponent": "TB",
+                "result": "L 16-20",
+                "projected": 12.1,
+                "actual": 14.4
+            },
+            {
+                "name": "Blake Corum",
+                "team": "LAR",
+                "position": "RB",
+                "opponent": "@Ari",
+                "result": "L 10-41",
+                "projected": 1.0,
+                "actual": 2.8
+            },
+            {
+                "name": "Jaylen Wright",
+                "team": "Mia",
+                "position": "RB",
+                "opponent": "Buf",
+                "result": "L 10-31",
+                "projected": 4.8,
+                "actual": 0.4
+            },
+            {
+                "name": "Alexander Mattison",
+                "team": "LV",
+                "position": "RB",
+                "opponent": "@Bal",
+                "result": "W 26-23",
+                "projected": 8.5,
+                "actual": 6.1
+            },
+            {
+                "name": "Jeff Wilson Jr.",
+                "team": "Mia",
+                "position": "RB",
+                "opponent": "Buf",
+                "result": "L 10-31",
+                "projected": 6.9,
+                "actual": 3.2
+            },
+            {
+                "name": "Colby Parkinson",
+                "team": "LAR",
+                "position": "TE",
+                "opponent": "@Ari",
+                "result": "L 10-41",
+                "projected": 8.2,
+                "actual": 2.2
+            }
+        ]
+    },
+    "Ideal": {
+        "score": 151.16,
+        "starters": [
+            {
+                "name": "Anthony Richardson",
+                "team": "Ind",
+                "position": "QB",
+                "opponent": "@GB",
+                "result": "L 10-16",
+                "projected": 18.6,
+                "actual": 9.86
+            },
+            {
+                "name": "De'Von Achane",
+                "team": "Mia",
+                "position": "RB",
+                "opponent": "Buf",
+                "result": "L 10-31",
+                "projected": 17.0,
+                "actual": 29.5
+            },
+            {
+                "name": "Bijan Robinson",
+                "team": "Atl",
+                "position": "RB",
+                "opponent": "@Phi",
+                "result": "W 22-21",
+                "projected": 22.2,
+                "actual": 16.2
+            },
+            {
+                "name": "DeVonta Smith",
+                "team": "Phi",
+                "position": "WR",
+                "opponent": "Atl",
+                "result": "L 21-22",
+                "projected": 16.8,
+                "actual": 20.6
+            },
+            {
+                "name": "Jameson Williams",
+                "team": "Det",
+                "position": "WR",
+                "opponent": "TB",
+                "result": "L 16-20",
+                "projected": 12.1,
+                "actual": 14.4
+            },
+            {
+                "name": "Brock Bowers",
+                "team": "LV",
+                "position": "TE",
+                "opponent": "@Bal",
+                "result": "W 26-23",
+                "projected": 10.2,
+                "actual": 18.8
+            },
+            {
+                "name": "Chris Olave",
+                "team": "NO",
+                "position": "WR",
+                "opponent": "@Dal",
+                "result": "W 44-19",
+                "projected": 14.2,
+                "actual": 12.8
+            },
+            {
+                "name": "Ravens D/ST",
+                "team": "Bal",
+                "position": "D/ST",
+                "opponent": "LV",
+                "result": "L 23-26",
+                "projected": 7.5,
+                "actual": 9.0
+            },
+            {
+                "name": "Ka'imi Fairbairn",
+                "team": "Hou",
+                "position": "K",
+                "opponent": "Chi",
+                "result": "W 19-13",
+                "projected": 8.2,
+                "actual": 20.0
+            }
+        ],
+        "bench": [
+            {
+                "name": "Blake Corum",
+                "team": "LAR",
+                "position": "RB",
+                "opponent": "@Ari",
+                "result": "L 10-41",
+                "projected": 1.0,
+                "actual": 2.8
+            },
+            {
+                "name": "Jaylen Wright",
+                "team": "Mia",
+                "position": "RB",
+                "opponent": "Buf",
+                "result": "L 10-31",
+                "projected": 4.8,
+                "actual": 0.4
+            },
+            {
+                "name": "Alexander Mattison",
+                "team": "LV",
+                "position": "RB",
+                "opponent": "@Bal",
+                "result": "W 26-23",
+                "projected": 8.5,
+                "actual": 6.1
+            },
+            {
+                "name": "Jeff Wilson Jr.",
+                "team": "Mia",
+                "position": "RB",
+                "opponent": "Buf",
+                "result": "L 10-31",
+                "projected": 6.9,
+                "actual": 3.2
+            },
+            {
+                "name": "Amari Cooper",
+                "team": "Cle",
+                "position": "WR",
+                "opponent": "@Jax",
+                "result": "W 18-13",
+                "projected": 12.2,
+                "actual": 4.1
+            },
+            {
+                "name": "Tank Dell",
+                "team": "Hou",
+                "position": "WR",
+                "opponent": "Chi",
+                "result": "W 19-13",
+                "projected": 13.1,
+                "actual": 2.3
+            },
+            {
+                "name": "Colby Parkinson",
+                "team": "LAR",
+                "position": "TE",
+                "opponent": "@Ari",
+                "result": "L 10-41",
+                "projected": 8.2,
+                "actual": 2.2
+            }
+        ]
+    }
+}

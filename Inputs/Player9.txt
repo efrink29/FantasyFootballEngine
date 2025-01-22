@@ -1,0 +1,147 @@
+QB
+Russell WilsonRussell Wilson
+Russell Wilson
+Pit
+QB
+@Wsh
+W 28-27
+17.8
+18.1
+RB
+Derrick HenryDerrick Henry
+Derrick Henry
+Bal
+RB
+Cin
+W 35-34
+18.4
+14.1
+RB
+David MontgomeryDavid Montgomery
+David Montgomery
+Det
+RB
+@Hou
+W 26-23
+15.1
+12.6
+WR
+Ja'Marr ChaseJa'Marr Chase
+Ja'Marr Chase
+Cin
+WR
+@Bal
+L 34-35
+21.6
+55.4
+WR
+Jaylen WaddleJaylen Waddle
+Jaylen Waddle
+Mia
+WR
+@LAR
+W 23-15
+11.0
+8.6
+TE
+Travis KelceTravis Kelce
+Travis Kelce
+KC
+TE
+Den
+W 16-14
+12.8
+20.4
+FLEX
+Najee HarrisNajee Harris
+Najee Harris
+Pit
+RB
+@Wsh
+W 28-27
+15.0
+11.3
+D/ST
+49ers D/ST49ers D/ST
+49ers
+SF
+D/ST
+@TB
+W 23-20
+5.8
+4.0
+K
+Justin TuckerJustin Tucker
+Justin Tucker
+Bal
+K
+Cin
+W 35-34
+8.9
+3.0
+TOTALS
+126.5
+147.5
+Bench
+C.J. StroudC.J. Stroud
+C.J. Stroud
+Hou
+QB
+Det
+L 23-26
+15.6
+9.78
+Bench
+Xavier WorthyXavier Worthy
+Xavier Worthy
+KC
+WR
+Den
+W 16-14
+9.5
+2.1
+Bench
+Rico DowdleRico Dowdle
+Rico Dowdle
+Dal
+RB
+Phi
+L 6-34
+10.9
+8.6
+Bench
+Bucky IrvingBucky Irving
+Bucky Irving
+TB
+RB
+SF
+L 20-23
+11.5
+17.7
+Bench
+Bills D/STBills D/ST
+Bills
+Buf
+D/ST
+@Ind
+W 30-20
+5.3
+17.0
+Bench
+Keon ColemanKeon Coleman
+Keon Coleman
+Buf
+WR
+@Ind
+W 30-20
+0.0
+0.0
+Bench
+Rome OdunzeRome Odunze
+Rome Odunze
+Chi
+WR
+NE
+L 3-19
+9.8
+5.3

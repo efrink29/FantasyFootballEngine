@@ -1,0 +1,147 @@
+QB
+Patrick MahomesPatrick Mahomes
+Patrick Mahomes
+KC
+QB
+Den
+W 16-14
+14.1
+16.54
+RB
+Alvin KamaraAlvin Kamara
+Alvin Kamara
+NO
+RB
+Atl
+W 20-17
+21.4
+15.9
+RB
+Chuba HubbardChuba Hubbard
+Chuba Hubbard
+Car
+RB
+NYG
+W 20-17
+15.8
+24.9
+WR
+Malik NabersMalik Nabers
+Malik Nabers
+NYG
+WR
+@Car
+L 17-20
+18.3
+10.8
+WR
+Jauan JenningsJauan Jennings
+Jauan Jennings
+SF
+WR
+@TB
+W 23-20
+10.6
+16.3
+TE
+Trey McBrideTrey McBride
+Trey McBride
+Ari
+TE
+NYJ
+W 31-6
+12.2
+11.1
+FLEX
+Noah BrownNoah Brown
+Noah Brown
+Wsh
+WR
+Pit
+L 27-28
+8.9
+6.3
+D/ST
+Chargers D/STChargers D/ST
+Chargers
+LAC
+D/ST
+Ten
+W 27-17
+7.6
+10.0
+K
+Jake BatesJake Bates
+Jake Bates
+Det
+K
+@Hou
+W 26-23
+8.6
+12.0
+TOTALS
+117.5
+123.84
+Bench
+Brian Robinson Jr.Brian Robinson Jr.
+Brian Robinson Jr.
+Wsh
+RB
+Pit
+L 27-28
+0.0
+0.0
+Bench
+Caleb WilliamsCaleb Williams
+Caleb Williams
+Chi
+QB
+NE
+L 3-19
+15.1
+6.3
+Bench
+Brandon AubreyBrandon Aubrey
+Brandon Aubrey
+Dal
+K
+Phi
+L 6-34
+7.4
+7.0
+Bench
+Bears D/STBears D/ST
+Bears
+Chi
+D/ST
+NE
+L 3-19
+6.1
+3.0
+Bench
+Tucker KraftTucker Kraft
+Tucker Kraft
+GB
+TE
+*BYE*
+--
+--
+0.0
+Bench
+Cedric TillmanCedric Tillman
+Cedric Tillman
+Cle
+WR
+*BYE*
+--
+--
+0.0
+Bench
+Ray-Ray McCloud IIIRay-Ray McCloud III
+Ray-Ray McCloud III
+Atl
+WR
+@NO
+L 17-20
+7.9
+6.6

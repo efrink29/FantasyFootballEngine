@@ -1,0 +1,147 @@
+QB
+Tua TagovailoaTua Tagovailoa
+Tua Tagovailoa
+Mia
+QB
+@LAR
+W 23-15
+16.0
+8.18
+RB
+Saquon BarkleySaquon Barkley
+Saquon Barkley
+Phi
+RB
+@Dal
+W 34-6
+20.1
+8.8
+RB
+J.K. DobbinsJ.K. Dobbins
+J.K. Dobbins
+LAC
+RB
+Ten
+W 27-17
+16.4
+8.5
+WR
+Zay FlowersZay Flowers
+Zay Flowers
+Bal
+WR
+Cin
+W 35-34
+15.0
+7.4
+WR
+Ricky PearsallRicky Pearsall
+Ricky Pearsall
+SF
+WR
+@TB
+W 23-20
+9.2
+17.3
+TE
+Kyle PittsKyle Pitts
+Kyle Pitts
+Atl
+TE
+@NO
+L 17-20
+9.6
+9.5
+FLEX
+Travis Etienne Jr.Travis Etienne Jr.
+Travis Etienne Jr.
+Jax
+RB
+Min
+L 7-12
+9.7
+5.3
+D/ST
+Broncos D/STBroncos D/ST
+Broncos
+Den
+D/ST
+@KC
+L 14-16
+6.3
+5.0
+K
+Wil LutzWil Lutz
+Wil Lutz
+Den
+K
+@KC
+L 14-16
+7.2
+0.0
+TOTALS
+109.6
+69.98
+Bench
+Nico CollinsNico Collins
+Nico Collins
+Hou
+WR
+Det
+L 23-26
+0.0
+0.0
+Bench
+Mark AndrewsMark Andrews
+Mark Andrews
+Bal
+TE
+Cin
+W 35-34
+8.9
+18.8
+Bench
+Jared GoffJared Goff
+Jared Goff
+Det
+QB
+@Hou
+W 26-23
+14.1
+7.8
+Bench
+Jerry JeudyJerry Jeudy
+Jerry Jeudy
+Cle
+WR
+*BYE*
+--
+--
+0.0
+Bench
+Texans D/STTexans D/ST
+Texans
+Hou
+D/ST
+Det
+L 23-26
+4.3
+10.0
+Bench
+Kenneth GainwellKenneth Gainwell
+Kenneth Gainwell
+Phi
+RB
+@Dal
+W 34-6
+4.0
+4.9
+Bench
+Alec PierceAlec Pierce
+Alec Pierce
+Ind
+WR
+Buf
+L 20-30
+10.3
+18.1

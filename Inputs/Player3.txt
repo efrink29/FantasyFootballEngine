@@ -1,0 +1,147 @@
+QB
+Sam DarnoldSam Darnold
+Sam Darnold
+Min
+QB
+@Jax
+W 12-7
+18.6
+6.44
+RB
+Bijan RobinsonBijan Robinson
+Bijan Robinson
+Atl
+RB
+@NO
+L 17-20
+21.5
+29.4
+RB
+Jahmyr GibbsJahmyr Gibbs
+Jahmyr Gibbs
+Det
+RB
+@Hou
+W 26-23
+16.3
+12.8
+WR
+DeVonta SmithDeVonta Smith
+DeVonta Smith
+Phi
+WR
+@Dal
+W 34-6
+12.4
+3.4
+WR
+Tank DellTank Dell
+Tank Dell
+Hou
+WR
+Det
+L 23-26
+11.7
+8.3
+TE
+Jonnu SmithJonnu Smith
+Jonnu Smith
+Mia
+TE
+@LAR
+W 23-15
+9.9
+7.5
+FLEX
+Brian Thomas Jr.Brian Thomas Jr.
+Brian Thomas Jr.
+Jax
+WR
+Min
+L 7-12
+12.3
+3.2
+D/ST
+Chiefs D/STChiefs D/ST
+Chiefs
+KC
+D/ST
+Den
+W 16-14
+6.5
+7.0
+K
+Ka'imi FairbairnKa'imi Fairbairn
+Ka'imi Fairbairn
+Hou
+K
+Det
+L 23-26
+7.8
+12.0
+TOTALS
+116.9
+90.04
+Bench
+Chris OlaveChris Olave
+Chris Olave
+NO
+WR
+Atl
+W 20-17
+0.0
+0.0
+Bench
+Brock BowersBrock Bowers
+Brock Bowers
+LV
+TE
+*BYE*
+--
+--
+0.0
+Bench
+Jameson WilliamsJameson Williams
+Jameson Williams
+Det
+WR
+@Hou
+W 26-23
+8.2
+8.3
+Bench
+Ravens D/STRavens D/ST
+Ravens
+Bal
+D/ST
+Cin
+W 35-34
+4.7
+-1.0
+Bench
+Alexander MattisonAlexander Mattison
+Alexander Mattison
+LV
+RB
+*BYE*
+--
+--
+0.0
+Bench
+Ray DavisRay Davis
+Ray Davis
+Buf
+RB
+@Ind
+W 30-20
+4.5
+0.6
+Bench
+Bo NixBo Nix
+Bo Nix
+Den
+QB
+@KC
+L 14-16
+14.8
+16.1

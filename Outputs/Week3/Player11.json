@@ -1,0 +1,309 @@
+{
+    "Score": 105.76,
+    "Projected": 119.2,
+    "PlusMinus": -13.44,
+    "BenchPoints": 61.1,
+    "Unused": 22.39999999999999,
+    "Actual": {
+        "score": 105.76,
+        "starters": [
+            {
+                "name": "Dak Prescott",
+                "team": "Dal",
+                "position": "QB",
+                "opponent": "Bal",
+                "result": "L 25-28",
+                "projected": 17.4,
+                "actual": 29.86
+            },
+            {
+                "name": "Aaron Jones",
+                "team": "Min",
+                "position": "RB",
+                "opponent": "Hou",
+                "result": "W 34-7",
+                "projected": 14.2,
+                "actual": 25.8
+            },
+            {
+                "name": "Cam Akers",
+                "team": "Hou",
+                "position": "RB",
+                "opponent": "@Min",
+                "result": "L 7-34",
+                "projected": 11.6,
+                "actual": 9.9
+            },
+            {
+                "name": "CeeDee Lamb",
+                "team": "Dal",
+                "position": "WR",
+                "opponent": "Bal",
+                "result": "L 25-28",
+                "projected": 21.1,
+                "actual": 8.7
+            },
+            {
+                "name": "Davante Adams",
+                "team": "LV",
+                "position": "WR",
+                "opponent": "Car",
+                "result": "L 22-36",
+                "projected": 15.8,
+                "actual": 8.0
+            },
+            {
+                "name": "Sam LaPorta",
+                "team": "Det",
+                "position": "TE",
+                "opponent": "@Ari",
+                "result": "W 20-13",
+                "projected": 11.5,
+                "actual": 5.6
+            },
+            {
+                "name": "Calvin Ridley",
+                "team": "Ten",
+                "position": "WR",
+                "opponent": "GB",
+                "result": "L 14-30",
+                "projected": 12.6,
+                "actual": 1.9
+            },
+            {
+                "name": "Jets D/ST",
+                "team": "NYJ",
+                "position": "D/ST",
+                "opponent": "NE",
+                "result": "W 24-3",
+                "projected": 6.7,
+                "actual": 16.0
+            },
+            {
+                "name": "Jake Elliott",
+                "team": "Phi",
+                "position": "K",
+                "opponent": "@NO",
+                "result": "W 15-12",
+                "projected": 8.3,
+                "actual": 0.0
+            }
+        ],
+        "bench": [
+            {
+                "name": "Kenneth Walker III",
+                "team": "Sea",
+                "position": "RB",
+                "opponent": "Mia",
+                "result": "W 24-3",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "DeAndre Hopkins",
+                "team": "Ten",
+                "position": "WR",
+                "opponent": "GB",
+                "result": "L 14-30",
+                "projected": 7.6,
+                "actual": 19.3
+            },
+            {
+                "name": "Mike Williams",
+                "team": "NYJ",
+                "position": "WR",
+                "opponent": "NE",
+                "result": "W 24-3",
+                "projected": 7.1,
+                "actual": 6.4
+            },
+            {
+                "name": "Adam Thielen",
+                "team": "Car",
+                "position": "WR",
+                "opponent": "@LV",
+                "result": "W 36-22",
+                "projected": 8.6,
+                "actual": 13.0
+            },
+            {
+                "name": "Justin Herbert",
+                "team": "LAC",
+                "position": "QB",
+                "opponent": "@Pit",
+                "result": "L 10-20",
+                "projected": 13.9,
+                "actual": 9.0
+            },
+            {
+                "name": "Carson Steele",
+                "team": "KC",
+                "position": "RB",
+                "opponent": "@Atl",
+                "result": "W 22-17",
+                "projected": 10.8,
+                "actual": 8.4
+            },
+            {
+                "name": "Tyler Johnson",
+                "team": "LAR",
+                "position": "WR",
+                "opponent": "SF",
+                "result": "W 27-24",
+                "projected": 10.6,
+                "actual": 5.0
+            }
+        ]
+    },
+    "Ideal": {
+        "score": 128.16,
+        "starters": [
+            {
+                "name": "Dak Prescott",
+                "team": "Dal",
+                "position": "QB",
+                "opponent": "Bal",
+                "result": "L 25-28",
+                "projected": 17.4,
+                "actual": 29.86
+            },
+            {
+                "name": "Aaron Jones",
+                "team": "Min",
+                "position": "RB",
+                "opponent": "Hou",
+                "result": "W 34-7",
+                "projected": 14.2,
+                "actual": 25.8
+            },
+            {
+                "name": "Cam Akers",
+                "team": "Hou",
+                "position": "RB",
+                "opponent": "@Min",
+                "result": "L 7-34",
+                "projected": 11.6,
+                "actual": 9.9
+            },
+            {
+                "name": "DeAndre Hopkins",
+                "team": "Ten",
+                "position": "WR",
+                "opponent": "GB",
+                "result": "L 14-30",
+                "projected": 7.6,
+                "actual": 19.3
+            },
+            {
+                "name": "Adam Thielen",
+                "team": "Car",
+                "position": "WR",
+                "opponent": "@LV",
+                "result": "W 36-22",
+                "projected": 8.6,
+                "actual": 13.0
+            },
+            {
+                "name": "Sam LaPorta",
+                "team": "Det",
+                "position": "TE",
+                "opponent": "@Ari",
+                "result": "W 20-13",
+                "projected": 11.5,
+                "actual": 5.6
+            },
+            {
+                "name": "CeeDee Lamb",
+                "team": "Dal",
+                "position": "WR",
+                "opponent": "Bal",
+                "result": "L 25-28",
+                "projected": 21.1,
+                "actual": 8.7
+            },
+            {
+                "name": "Jets D/ST",
+                "team": "NYJ",
+                "position": "D/ST",
+                "opponent": "NE",
+                "result": "W 24-3",
+                "projected": 6.7,
+                "actual": 16.0
+            },
+            {
+                "name": "Jake Elliott",
+                "team": "Phi",
+                "position": "K",
+                "opponent": "@NO",
+                "result": "W 15-12",
+                "projected": 8.3,
+                "actual": 0.0
+            }
+        ],
+        "bench": [
+            {
+                "name": "Justin Herbert",
+                "team": "LAC",
+                "position": "QB",
+                "opponent": "@Pit",
+                "result": "L 10-20",
+                "projected": 13.9,
+                "actual": 9.0
+            },
+            {
+                "name": "Kenneth Walker III",
+                "team": "Sea",
+                "position": "RB",
+                "opponent": "Mia",
+                "result": "W 24-3",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Carson Steele",
+                "team": "KC",
+                "position": "RB",
+                "opponent": "@Atl",
+                "result": "W 22-17",
+                "projected": 10.8,
+                "actual": 8.4
+            },
+            {
+                "name": "Davante Adams",
+                "team": "LV",
+                "position": "WR",
+                "opponent": "Car",
+                "result": "L 22-36",
+                "projected": 15.8,
+                "actual": 8.0
+            },
+            {
+                "name": "Calvin Ridley",
+                "team": "Ten",
+                "position": "WR",
+                "opponent": "GB",
+                "result": "L 14-30",
+                "projected": 12.6,
+                "actual": 1.9
+            },
+            {
+                "name": "Mike Williams",
+                "team": "NYJ",
+                "position": "WR",
+                "opponent": "NE",
+                "result": "W 24-3",
+                "projected": 7.1,
+                "actual": 6.4
+            },
+            {
+                "name": "Tyler Johnson",
+                "team": "LAR",
+                "position": "WR",
+                "opponent": "SF",
+                "result": "W 27-24",
+                "projected": 10.6,
+                "actual": 5.0
+            }
+        ]
+    }
+}

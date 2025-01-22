@@ -1,0 +1,309 @@
+{
+    "Score": 86.12,
+    "Projected": 81.6,
+    "PlusMinus": 4.52,
+    "BenchPoints": 50.8,
+    "Unused": 29.379999999999995,
+    "Actual": {
+        "score": 86.12,
+        "starters": [
+            {
+                "name": "Bo Nix",
+                "team": "Den",
+                "position": "QB",
+                "opponent": "@LV",
+                "result": "W 29-19",
+                "projected": 17.7,
+                "actual": 19.42
+            },
+            {
+                "name": "Alexander Mattison",
+                "team": "LV",
+                "position": "RB",
+                "opponent": "Den",
+                "result": "L 19-29",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Jahmyr Gibbs",
+                "team": "Det",
+                "position": "RB",
+                "opponent": "@Ind",
+                "result": "W 24-6",
+                "projected": 17.1,
+                "actual": 24.9
+            },
+            {
+                "name": "DeVonta Smith",
+                "team": "Phi",
+                "position": "WR",
+                "opponent": "@LAR",
+                "result": "W 37-20",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Tank Dell",
+                "team": "Hou",
+                "position": "WR",
+                "opponent": "Ten",
+                "result": "L 27-32",
+                "projected": 10.9,
+                "actual": 10.2
+            },
+            {
+                "name": "Brock Bowers",
+                "team": "LV",
+                "position": "TE",
+                "opponent": "Den",
+                "result": "L 19-29",
+                "projected": 13.7,
+                "actual": 7.8
+            },
+            {
+                "name": "Jameson Williams",
+                "team": "Det",
+                "position": "WR",
+                "opponent": "@Ind",
+                "result": "W 24-6",
+                "projected": 11.0,
+                "actual": 11.8
+            },
+            {
+                "name": "Colts",
+                "team": "Ind",
+                "position": "D/ST",
+                "opponent": "Det",
+                "result": "L 6-24",
+                "projected": 3.3,
+                "actual": 2.0
+            },
+            {
+                "name": "Ka'imi Fairbairn",
+                "team": "Hou",
+                "position": "K",
+                "opponent": "Ten",
+                "result": "L 27-32",
+                "projected": 7.9,
+                "actual": 10.0
+            }
+        ],
+        "bench": [
+            {
+                "name": "Bijan Robinson",
+                "team": "Atl",
+                "position": "RB",
+                "opponent": "*BYE*",
+                "result": "BYE",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Chris Olave",
+                "team": "NO",
+                "position": "WR",
+                "opponent": "*BYE*",
+                "result": "BYE",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Ravens",
+                "team": "Bal",
+                "position": "D/ST",
+                "opponent": "@LAC",
+                "result": "W 30-23",
+                "projected": 4.2,
+                "actual": 6.0
+            },
+            {
+                "name": "Sam Darnold",
+                "team": "Min",
+                "position": "QB",
+                "opponent": "@Chi",
+                "result": "W 30-27",
+                "projected": 17.0,
+                "actual": 21.1
+            },
+            {
+                "name": "Brian Thomas Jr.",
+                "team": "Jax",
+                "position": "WR",
+                "opponent": "*BYE*",
+                "result": "BYE",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Ray Davis",
+                "team": "Buf",
+                "position": "RB",
+                "opponent": "*BYE*",
+                "result": "BYE",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Jonnu Smith",
+                "team": "Mia",
+                "position": "TE",
+                "opponent": "NE",
+                "result": "W 34-15",
+                "projected": 10.4,
+                "actual": 23.7
+            }
+        ]
+    },
+    "Ideal": {
+        "score": 115.5,
+        "starters": [
+            {
+                "name": "Sam Darnold",
+                "team": "Min",
+                "position": "QB",
+                "opponent": "@Chi",
+                "result": "W 30-27",
+                "projected": 17.0,
+                "actual": 21.1
+            },
+            {
+                "name": "Jahmyr Gibbs",
+                "team": "Det",
+                "position": "RB",
+                "opponent": "@Ind",
+                "result": "W 24-6",
+                "projected": 17.1,
+                "actual": 24.9
+            },
+            {
+                "name": "Alexander Mattison",
+                "team": "LV",
+                "position": "RB",
+                "opponent": "Den",
+                "result": "L 19-29",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Jameson Williams",
+                "team": "Det",
+                "position": "WR",
+                "opponent": "@Ind",
+                "result": "W 24-6",
+                "projected": 11.0,
+                "actual": 11.8
+            },
+            {
+                "name": "Tank Dell",
+                "team": "Hou",
+                "position": "WR",
+                "opponent": "Ten",
+                "result": "L 27-32",
+                "projected": 10.9,
+                "actual": 10.2
+            },
+            {
+                "name": "Jonnu Smith",
+                "team": "Mia",
+                "position": "TE",
+                "opponent": "NE",
+                "result": "W 34-15",
+                "projected": 10.4,
+                "actual": 23.7
+            },
+            {
+                "name": "Brock Bowers",
+                "team": "LV",
+                "position": "TE",
+                "opponent": "Den",
+                "result": "L 19-29",
+                "projected": 13.7,
+                "actual": 7.8
+            },
+            {
+                "name": "Ravens",
+                "team": "Bal",
+                "position": "D/ST",
+                "opponent": "@LAC",
+                "result": "W 30-23",
+                "projected": 4.2,
+                "actual": 6.0
+            },
+            {
+                "name": "Ka'imi Fairbairn",
+                "team": "Hou",
+                "position": "K",
+                "opponent": "Ten",
+                "result": "L 27-32",
+                "projected": 7.9,
+                "actual": 10.0
+            }
+        ],
+        "bench": [
+            {
+                "name": "Bo Nix",
+                "team": "Den",
+                "position": "QB",
+                "opponent": "@LV",
+                "result": "W 29-19",
+                "projected": 17.7,
+                "actual": 19.42
+            },
+            {
+                "name": "Bijan Robinson",
+                "team": "Atl",
+                "position": "RB",
+                "opponent": "*BYE*",
+                "result": "BYE",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Ray Davis",
+                "team": "Buf",
+                "position": "RB",
+                "opponent": "*BYE*",
+                "result": "BYE",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "DeVonta Smith",
+                "team": "Phi",
+                "position": "WR",
+                "opponent": "@LAR",
+                "result": "W 37-20",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Chris Olave",
+                "team": "NO",
+                "position": "WR",
+                "opponent": "*BYE*",
+                "result": "BYE",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Brian Thomas Jr.",
+                "team": "Jax",
+                "position": "WR",
+                "opponent": "*BYE*",
+                "result": "BYE",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Colts",
+                "team": "Ind",
+                "position": "D/ST",
+                "opponent": "Det",
+                "result": "L 6-24",
+                "projected": 3.3,
+                "actual": 2.0
+            }
+        ]
+    }
+}

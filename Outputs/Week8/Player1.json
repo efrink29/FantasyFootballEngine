@@ -1,0 +1,309 @@
+{
+    "Score": 122.64,
+    "Projected": 118.2,
+    "PlusMinus": 4.44,
+    "BenchPoints": 52.38,
+    "Unused": 23.040000000000006,
+    "Actual": {
+        "score": 122.64,
+        "starters": [
+            {
+                "name": "Caleb Williams",
+                "team": "Chi",
+                "position": "QB",
+                "opponent": "@Wsh",
+                "result": "L 15-18",
+                "projected": 15.9,
+                "actual": 9.34
+            },
+            {
+                "name": "Alvin Kamara",
+                "team": "NO",
+                "position": "RB",
+                "opponent": "@LAC",
+                "result": "L 8-26",
+                "projected": 17.0,
+                "actual": 18.2
+            },
+            {
+                "name": "Brian Robinson Jr.",
+                "team": "Wsh",
+                "position": "RB",
+                "opponent": "Chi",
+                "result": "W 18-15",
+                "projected": 15.4,
+                "actual": 8.6
+            },
+            {
+                "name": "Malik Nabers",
+                "team": "NYG",
+                "position": "WR",
+                "opponent": "@Pit",
+                "result": "L 18-26",
+                "projected": 18.8,
+                "actual": 14.1
+            },
+            {
+                "name": "Cedric Tillman",
+                "team": "Cle",
+                "position": "WR",
+                "opponent": "Bal",
+                "result": "W 29-24",
+                "projected": 9.5,
+                "actual": 28.9
+            },
+            {
+                "name": "Trey McBride",
+                "team": "Ari",
+                "position": "TE",
+                "opponent": "@Mia",
+                "result": "W 28-27",
+                "projected": 11.8,
+                "actual": 21.4
+            },
+            {
+                "name": "Chuba Hubbard",
+                "team": "Car",
+                "position": "RB",
+                "opponent": "@Den",
+                "result": "L 14-28",
+                "projected": 13.7,
+                "actual": 9.1
+            },
+            {
+                "name": "Chargers D/ST",
+                "team": "LAC",
+                "position": "D/ST",
+                "opponent": "NO",
+                "result": "W 26-8",
+                "projected": 8.2,
+                "actual": 7.0
+            },
+            {
+                "name": "Brandon Aubrey",
+                "team": "Dal",
+                "position": "K",
+                "opponent": "@SF",
+                "result": "L 24-30",
+                "projected": 7.9,
+                "actual": 6.0
+            }
+        ],
+        "bench": [
+            {
+                "name": "Patrick Mahomes",
+                "team": "KC",
+                "position": "QB",
+                "opponent": "@LV",
+                "result": "W 27-20",
+                "projected": 14.2,
+                "actual": 18.18
+            },
+            {
+                "name": "Bears D/ST",
+                "team": "Chi",
+                "position": "D/ST",
+                "opponent": "@Wsh",
+                "result": "L 15-18",
+                "projected": 4.1,
+                "actual": -3.0
+            },
+            {
+                "name": "Allen Lazard",
+                "team": "NYJ",
+                "position": "WR",
+                "opponent": "@NE",
+                "result": "L 22-25",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Tucker Kraft",
+                "team": "GB",
+                "position": "TE",
+                "opponent": "@Jax",
+                "result": "W 30-27",
+                "projected": 10.6,
+                "actual": 16.8
+            },
+            {
+                "name": "Tutu Atwell",
+                "team": "LAR",
+                "position": "WR",
+                "opponent": "Min",
+                "result": "W 30-20",
+                "projected": 3.3,
+                "actual": 2.8
+            },
+            {
+                "name": "Jake Bates",
+                "team": "Det",
+                "position": "K",
+                "opponent": "Ten",
+                "result": "W 52-14",
+                "projected": 8.8,
+                "actual": 12.0
+            },
+            {
+                "name": "Ray-Ray McCloud III",
+                "team": "Atl",
+                "position": "WR",
+                "opponent": "@TB",
+                "result": "W 31-26",
+                "projected": 9.0,
+                "actual": 5.6
+            }
+        ]
+    },
+    "Ideal": {
+        "score": 145.68,
+        "starters": [
+            {
+                "name": "Patrick Mahomes",
+                "team": "KC",
+                "position": "QB",
+                "opponent": "@LV",
+                "result": "W 27-20",
+                "projected": 14.2,
+                "actual": 18.18
+            },
+            {
+                "name": "Alvin Kamara",
+                "team": "NO",
+                "position": "RB",
+                "opponent": "@LAC",
+                "result": "L 8-26",
+                "projected": 17.0,
+                "actual": 18.2
+            },
+            {
+                "name": "Chuba Hubbard",
+                "team": "Car",
+                "position": "RB",
+                "opponent": "@Den",
+                "result": "L 14-28",
+                "projected": 13.7,
+                "actual": 9.1
+            },
+            {
+                "name": "Cedric Tillman",
+                "team": "Cle",
+                "position": "WR",
+                "opponent": "Bal",
+                "result": "W 29-24",
+                "projected": 9.5,
+                "actual": 28.9
+            },
+            {
+                "name": "Malik Nabers",
+                "team": "NYG",
+                "position": "WR",
+                "opponent": "@Pit",
+                "result": "L 18-26",
+                "projected": 18.8,
+                "actual": 14.1
+            },
+            {
+                "name": "Trey McBride",
+                "team": "Ari",
+                "position": "TE",
+                "opponent": "@Mia",
+                "result": "W 28-27",
+                "projected": 11.8,
+                "actual": 21.4
+            },
+            {
+                "name": "Tucker Kraft",
+                "team": "GB",
+                "position": "TE",
+                "opponent": "@Jax",
+                "result": "W 30-27",
+                "projected": 10.6,
+                "actual": 16.8
+            },
+            {
+                "name": "Chargers D/ST",
+                "team": "LAC",
+                "position": "D/ST",
+                "opponent": "NO",
+                "result": "W 26-8",
+                "projected": 8.2,
+                "actual": 7.0
+            },
+            {
+                "name": "Jake Bates",
+                "team": "Det",
+                "position": "K",
+                "opponent": "Ten",
+                "result": "W 52-14",
+                "projected": 8.8,
+                "actual": 12.0
+            }
+        ],
+        "bench": [
+            {
+                "name": "Caleb Williams",
+                "team": "Chi",
+                "position": "QB",
+                "opponent": "@Wsh",
+                "result": "L 15-18",
+                "projected": 15.9,
+                "actual": 9.34
+            },
+            {
+                "name": "Brian Robinson Jr.",
+                "team": "Wsh",
+                "position": "RB",
+                "opponent": "Chi",
+                "result": "W 18-15",
+                "projected": 15.4,
+                "actual": 8.6
+            },
+            {
+                "name": "Allen Lazard",
+                "team": "NYJ",
+                "position": "WR",
+                "opponent": "@NE",
+                "result": "L 22-25",
+                "projected": 0.0,
+                "actual": 0.0
+            },
+            {
+                "name": "Tutu Atwell",
+                "team": "LAR",
+                "position": "WR",
+                "opponent": "Min",
+                "result": "W 30-20",
+                "projected": 3.3,
+                "actual": 2.8
+            },
+            {
+                "name": "Ray-Ray McCloud III",
+                "team": "Atl",
+                "position": "WR",
+                "opponent": "@TB",
+                "result": "W 31-26",
+                "projected": 9.0,
+                "actual": 5.6
+            },
+            {
+                "name": "Bears D/ST",
+                "team": "Chi",
+                "position": "D/ST",
+                "opponent": "@Wsh",
+                "result": "L 15-18",
+                "projected": 4.1,
+                "actual": -3.0
+            },
+            {
+                "name": "Brandon Aubrey",
+                "team": "Dal",
+                "position": "K",
+                "opponent": "@SF",
+                "result": "L 24-30",
+                "projected": 7.9,
+                "actual": 6.0
+            }
+        ]
+    }
+}

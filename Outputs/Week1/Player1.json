@@ -1,0 +1,309 @@
+{
+    "Score": 126.44,
+    "Projected": 119.6,
+    "PlusMinus": 6.84,
+    "BenchPoints": 50.72,
+    "Unused": 26.5,
+    "Actual": {
+        "score": 126.44,
+        "starters": [
+            {
+                "name": "Patrick Mahomes",
+                "team": "KC",
+                "position": "QB",
+                "opponent": "Bal",
+                "result": "W 27-20",
+                "projected": 19.5,
+                "actual": 15.14
+            },
+            {
+                "name": "Alvin Kamara",
+                "team": "NO",
+                "position": "RB",
+                "opponent": "Car",
+                "result": "W 47-10",
+                "projected": 17.7,
+                "actual": 22.0
+            },
+            {
+                "name": "Brian Robinson Jr.",
+                "team": "Wsh",
+                "position": "RB",
+                "opponent": "@TB",
+                "result": "L 20-37",
+                "projected": 11.7,
+                "actual": 17.9
+            },
+            {
+                "name": "A.J. Brown",
+                "team": "Phi",
+                "position": "WR",
+                "opponent": "GB",
+                "result": "W 34-29",
+                "projected": 17.2,
+                "actual": 22.9
+            },
+            {
+                "name": "Malik Nabers",
+                "team": "NYG",
+                "position": "WR",
+                "opponent": "Min",
+                "result": "L 6-28",
+                "projected": 14.0,
+                "actual": 11.6
+            },
+            {
+                "name": "Trey McBride",
+                "team": "Ari",
+                "position": "TE",
+                "opponent": "@Buf",
+                "result": "L 28-34",
+                "projected": 12.5,
+                "actual": 8.0
+            },
+            {
+                "name": "Raheem Mostert",
+                "team": "Mia",
+                "position": "RB",
+                "opponent": "Jax",
+                "result": "W 20-17",
+                "projected": 11.2,
+                "actual": 3.9
+            },
+            {
+                "name": "Bengals D/ST",
+                "team": "Cin",
+                "position": "D/ST",
+                "opponent": "NE",
+                "result": "L 10-16",
+                "projected": 7.9,
+                "actual": 4.0
+            },
+            {
+                "name": "Brandon Aubrey",
+                "team": "Dal",
+                "position": "K",
+                "opponent": "@Cle",
+                "result": "W 33-17",
+                "projected": 7.9,
+                "actual": 21.0
+            }
+        ],
+        "bench": [
+            {
+                "name": "David Njoku",
+                "team": "Cle",
+                "position": "TE",
+                "opponent": "Dal",
+                "result": "L 17-33",
+                "projected": 11.0,
+                "actual": 8.4
+            },
+            {
+                "name": "Rome Odunze",
+                "team": "Chi",
+                "position": "WR",
+                "opponent": "Ten",
+                "result": "W 24-17",
+                "projected": 9.7,
+                "actual": 2.1
+            },
+            {
+                "name": "Trey Benson",
+                "team": "Ari",
+                "position": "RB",
+                "opponent": "@Buf",
+                "result": "L 28-34",
+                "projected": 6.0,
+                "actual": 2.8
+            },
+            {
+                "name": "Caleb Williams",
+                "team": "Chi",
+                "position": "QB",
+                "opponent": "Ten",
+                "result": "W 24-17",
+                "projected": 17.3,
+                "actual": 7.22
+            },
+            {
+                "name": "DeMario Douglas",
+                "team": "NE",
+                "position": "WR",
+                "opponent": "@Cin",
+                "result": "W 16-10",
+                "projected": 10.9,
+                "actual": 3.2
+            },
+            {
+                "name": "Greg Zuerlein",
+                "team": "NYJ",
+                "position": "K",
+                "opponent": "@SF",
+                "result": "L 19-32",
+                "projected": 7.9,
+                "actual": 1.0
+            },
+            {
+                "name": "Bears D/ST",
+                "team": "Chi",
+                "position": "D/ST",
+                "opponent": "Ten",
+                "result": "W 24-17",
+                "projected": 7.4,
+                "actual": 26.0
+            }
+        ]
+    },
+    "Ideal": {
+        "score": 152.94,
+        "starters": [
+            {
+                "name": "Patrick Mahomes",
+                "team": "KC",
+                "position": "QB",
+                "opponent": "Bal",
+                "result": "W 27-20",
+                "projected": 19.5,
+                "actual": 15.14
+            },
+            {
+                "name": "Alvin Kamara",
+                "team": "NO",
+                "position": "RB",
+                "opponent": "Car",
+                "result": "W 47-10",
+                "projected": 17.7,
+                "actual": 22.0
+            },
+            {
+                "name": "Brian Robinson Jr.",
+                "team": "Wsh",
+                "position": "RB",
+                "opponent": "@TB",
+                "result": "L 20-37",
+                "projected": 11.7,
+                "actual": 17.9
+            },
+            {
+                "name": "A.J. Brown",
+                "team": "Phi",
+                "position": "WR",
+                "opponent": "GB",
+                "result": "W 34-29",
+                "projected": 17.2,
+                "actual": 22.9
+            },
+            {
+                "name": "Malik Nabers",
+                "team": "NYG",
+                "position": "WR",
+                "opponent": "Min",
+                "result": "L 6-28",
+                "projected": 14.0,
+                "actual": 11.6
+            },
+            {
+                "name": "David Njoku",
+                "team": "Cle",
+                "position": "TE",
+                "opponent": "Dal",
+                "result": "L 17-33",
+                "projected": 11.0,
+                "actual": 8.4
+            },
+            {
+                "name": "Trey McBride",
+                "team": "Ari",
+                "position": "TE",
+                "opponent": "@Buf",
+                "result": "L 28-34",
+                "projected": 12.5,
+                "actual": 8.0
+            },
+            {
+                "name": "Bears D/ST",
+                "team": "Chi",
+                "position": "D/ST",
+                "opponent": "Ten",
+                "result": "W 24-17",
+                "projected": 7.4,
+                "actual": 26.0
+            },
+            {
+                "name": "Brandon Aubrey",
+                "team": "Dal",
+                "position": "K",
+                "opponent": "@Cle",
+                "result": "W 33-17",
+                "projected": 7.9,
+                "actual": 21.0
+            }
+        ],
+        "bench": [
+            {
+                "name": "Caleb Williams",
+                "team": "Chi",
+                "position": "QB",
+                "opponent": "Ten",
+                "result": "W 24-17",
+                "projected": 17.3,
+                "actual": 7.22
+            },
+            {
+                "name": "Raheem Mostert",
+                "team": "Mia",
+                "position": "RB",
+                "opponent": "Jax",
+                "result": "W 20-17",
+                "projected": 11.2,
+                "actual": 3.9
+            },
+            {
+                "name": "Trey Benson",
+                "team": "Ari",
+                "position": "RB",
+                "opponent": "@Buf",
+                "result": "L 28-34",
+                "projected": 6.0,
+                "actual": 2.8
+            },
+            {
+                "name": "Rome Odunze",
+                "team": "Chi",
+                "position": "WR",
+                "opponent": "Ten",
+                "result": "W 24-17",
+                "projected": 9.7,
+                "actual": 2.1
+            },
+            {
+                "name": "DeMario Douglas",
+                "team": "NE",
+                "position": "WR",
+                "opponent": "@Cin",
+                "result": "W 16-10",
+                "projected": 10.9,
+                "actual": 3.2
+            },
+            {
+                "name": "Bengals D/ST",
+                "team": "Cin",
+                "position": "D/ST",
+                "opponent": "NE",
+                "result": "L 10-16",
+                "projected": 7.9,
+                "actual": 4.0
+            },
+            {
+                "name": "Greg Zuerlein",
+                "team": "NYJ",
+                "position": "K",
+                "opponent": "@SF",
+                "result": "L 19-32",
+                "projected": 7.9,
+                "actual": 1.0
+            }
+        ]
+    }
+}
