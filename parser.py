@@ -263,6 +263,7 @@ def main():
         df.loc[index, 'Trend'] = previous_rank - (index + 1)
         
     # ---- Print Results ---- #
+    df = df.round(3)
     print(df)
     
     pd.DataFrame.to_csv(round(df,2), f'Outputs/Week{week}/summary.csv', index=False)
